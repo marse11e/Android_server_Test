@@ -1,0 +1,20 @@
+2024-03-01 19:20:40,388 - RunBot - INFO - Запуск бота!
+2024-03-01 19:21:14,442 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 19:21:15,583 - RunBot - ERROR - Ошибка при запуске бота: Model.delete() got an unexpected keyword argument 'user_id'!
+2024-03-01 19:21:40,244 - RunBot - INFO - Запуск бота!
+2024-03-01 19:21:42,931 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 19:21:44,286 - RunBot - ERROR - Ошибка при запуске бота: Manager isn't accessible via CustomUser instances!
+2024-03-01 19:21:59,721 - RunBot - INFO - Запуск бота!
+2024-03-01 19:22:02,161 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 19:22:03,275 - RunBot - ERROR - Ошибка при запуске бота: 'UserManager' object has no attribute 'delete'!
+2024-03-01 19:22:27,735 - RunBot - INFO - Запуск бота!
+2024-03-01 19:22:30,313 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 19:22:32,051 - RunBot - ERROR - Ошибка при запуске бота: 'UserManager' object has no attribute 'delete'!
+2024-03-01 19:22:37,331 - RunBot - INFO - Запуск бота!
+2024-03-01 19:22:39,678 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 19:23:59,347 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 19:25:35,769 - RunBot - INFO - Запуск бота!
+2024-03-01 19:25:54,716 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 19:27:20,441 - RunBot - INFO - Запуск бота!
+2024-03-01 19:27:31,577 - Func start - INFO - Пользователь 1303424158 написал боту start
+2024-03-01 20:51:02,783 - RunBot - ERROR - Ошибка при запуске бота: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)!
